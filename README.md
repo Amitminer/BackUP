@@ -26,8 +26,8 @@ Once installed and configured, WorldBackupX will automatically WorldBackupX your
 
 ## Support
 
-If you encounter any issues with the plugin, feel free to create a new issue on the [GitHub repository](https://github.com/YOUR-USERNAME/WorldBackupX/issues).
+If you encounter any issues with the plugin, feel free to create a new issue on the [GitHub repository](https://github.com/Amitminer/WorldBackupX/issues).
 
 ## License
 
-WorldBackupX is licensed under the [MIT License](https://github.com/YOUR-USERNAME/WorldBackupX/blob/master/LICENSE).
+WorldBackupX is licensed under the [ Apache-2.0 license](https://github.com/Amitminer/WorldBackupX/blob/master/LICENSE).
