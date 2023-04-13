@@ -16,9 +16,9 @@ WorldBackupX is a Pocketmine mp plugin that allows you to automatically WorldBac
 
 ## Configuration *TODO
 
-The configuration for WorldBackupX can be found in the `config.yml` file located in the `plugins/WorldBackupX` directory.
+- [ ] The configuration for WorldBackupX can be found in the `config.yml` file located in the `plugins/WorldBackupX` directory.
 
-- [x] You can configure the WorldBackupX interval in seconds by setting the `WorldBackupX-time` option in the `config.yml` file. For example, to set the WorldBackupX interval to 5 days, you would set it to `432000` (5 * 24 * 60 * 60).
+- [ ] You can configure the WorldBackupX interval in seconds by setting the `WorldBackupX-time` option in the `config.yml` file. For example, to set the WorldBackupX interval to 5 days, you would set it to `432000` (5 * 24 * 60 * 60).
 
 ## Usage
 
