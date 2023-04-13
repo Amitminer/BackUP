@@ -1,2 +1,2 @@
 # BackUP
-automatic back-up creater for OmniCore ...[Google Drive]
+automatic back-up creater for OmniCore ...[Dropbox]
