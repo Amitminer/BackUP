@@ -5,5 +5,6 @@ main: WorldBackupX\Main
 Author: AmitxD
 api: 4.18.3
 php: [ 8.1 ]
-
+description: "This plugin provides an automatic backup system for your default world in PocketMine-MP server. Backups are uploaded to Dropbox, allowing you to easily restore your world in case of server failure or other issues. You can customize the backup frequency and set up a schedule that works best for your needs."
+website: "https://github.com/Amitminer/WorldBackupX"
 ...
