@@ -10,15 +10,15 @@ WorldBackupX is a Pocketmine mp plugin that allows you to automatically WorldBac
 
 ## Installation
 
-1. Download the plugin from [GitHub Releases](https://github.com/YOUR-USERNAME/WorldBackupX/releases).
+1. Download the plugin from [GitHub Releases](https://github.com/Amitminer/WorldBackupX/releases).
 2. Place the downloaded `WorldBackupX.phar` file in your server's `plugins` directory.
 3. Restart your server.
 
-## Configuration
+## Configuration *TODO
 
 The configuration for WorldBackupX can be found in the `config.yml` file located in the `plugins/WorldBackupX` directory.
 
-You can configure the WorldBackupX interval in seconds by setting the `WorldBackupX-time` option in the `config.yml` file. For example, to set the WorldBackupX interval to 5 days, you would set it to `432000` (5 * 24 * 60 * 60).
+- [x] You can configure the WorldBackupX interval in seconds by setting the `WorldBackupX-time` option in the `config.yml` file. For example, to set the WorldBackupX interval to 5 days, you would set it to `432000` (5 * 24 * 60 * 60).
 
 ## Usage
 
