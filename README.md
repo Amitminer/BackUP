@@ -1,6 +1,6 @@
 # WorldBackupX Plugin
 
-WorldBackupX is a Minecraft Pocket Edition plugin that allows you to automatically WorldBackupX your world and saved data/world to the cloud. It currently supports Dropbox as a cloud storage provider.
+WorldBackupX is a Pocketmine mp plugin that allows you to automatically WorldBackupX your world and saved data/world to the cloud. It currently supports Dropbox as a cloud storage provider.
 
 ## Features
 
