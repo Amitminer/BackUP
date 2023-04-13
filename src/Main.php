@@ -3,17 +3,17 @@
 declare(strict_types=1);
 
 /**
- * BackUP plugin for PocketMine-MP.
+ * WorldBackupX plugin for PocketMine-MP.
  *
  * This plugin backs up the default world and saved data/world to Dropbox.
  *
- * @link      https://github.com/yourusername/backup
- * @author    Your Name
+ * @link      https://github.com/Amitminer/WorldBackupX
+ * @author    Amitminer
  * @version   1.0.0
- * @license   MIT License
+ * @license   Apache-2.0 license
  */
  
-namespace BackUP;
+namespace WorldBackupX;
 
 use pocketmine\plugin\PluginBase;
 use Kunnu\Dropbox\Dropbox;
